@@ -27,8 +27,7 @@ This project focuses on customer segmentation and developing a churn prediction 
 
 ## How to Run
 1. Clone the repository.
-2. Install the required libraries listed in `requirements.txt`.
-3. Run the Jupyter notebook or Python scripts to explore the models and predictions.
+2. Run the Jupyter notebook or Python scripts to explore the models and predictions.
 
 ## Contributors
 - Tejas Gawade
